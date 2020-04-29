@@ -1,0 +1,11 @@
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\bin\Debug\netcoreapp2.1\PersonExampleDB.deps.json
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\bin\Debug\netcoreapp2.1\PersonExampleDB.runtimeconfig.json
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\bin\Debug\netcoreapp2.1\PersonExampleDB.runtimeconfig.dev.json
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\bin\Debug\netcoreapp2.1\PersonExampleDB.dll
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\obj\Debug\netcoreapp2.1\PersonExampleDB.csprojAssemblyReference.cache
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\obj\Debug\netcoreapp2.1\PersonExampleDB.csproj.CoreCompileInputs.cache
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\obj\Debug\netcoreapp2.1\PersonExampleDB.AssemblyInfoInputs.cache
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\obj\Debug\netcoreapp2.1\PersonExampleDB.AssemblyInfo.cs
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\bin\Debug\netcoreapp2.1\PersonExampleDB.pdb
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\obj\Debug\netcoreapp2.1\PersonExampleDB.dll
+C:\teme\Datawarehouse-master\PersonExampleDB\PersonExampleDB\obj\Debug\netcoreapp2.1\PersonExampleDB.pdb
