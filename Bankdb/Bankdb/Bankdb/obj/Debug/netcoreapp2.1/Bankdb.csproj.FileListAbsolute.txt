@@ -1,0 +1,11 @@
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\bin\Debug\netcoreapp2.1\Bankdb.deps.json
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\bin\Debug\netcoreapp2.1\Bankdb.runtimeconfig.json
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\bin\Debug\netcoreapp2.1\Bankdb.runtimeconfig.dev.json
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\bin\Debug\netcoreapp2.1\Bankdb.dll
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\obj\Debug\netcoreapp2.1\Bankdb.csprojAssemblyReference.cache
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\obj\Debug\netcoreapp2.1\Bankdb.csproj.CoreCompileInputs.cache
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\obj\Debug\netcoreapp2.1\Bankdb.AssemblyInfoInputs.cache
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\obj\Debug\netcoreapp2.1\Bankdb.AssemblyInfo.cs
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\bin\Debug\netcoreapp2.1\Bankdb.pdb
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\obj\Debug\netcoreapp2.1\Bankdb.dll
+C:\dev\DataBase\Bankdb\Bankdb\Bankdb\obj\Debug\netcoreapp2.1\Bankdb.pdb
